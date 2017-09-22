@@ -15,3 +15,5 @@ gradle-app.setting
 /.gitignore
 /.idea/workspace.xml
 /.idea/misc.xml
+.idea/compiler.xml
+.idea/modules/
