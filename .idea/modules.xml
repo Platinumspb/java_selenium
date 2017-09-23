@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests_main.iml" group="addressbook-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests_test.iml" group="addressbook-web-tests" />
       <module fileurl="file://$PROJECT_DIR$/java_selenium.iml" filepath="$PROJECT_DIR$/java_selenium.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_selenium_main.iml" group="java_selenium" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_selenium_test.iml" group="java_selenium" />
